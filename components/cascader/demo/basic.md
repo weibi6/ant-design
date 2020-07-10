@@ -42,8 +42,8 @@ const options = [
         label: 'Nanjing',
         children: [
           {
-            value: 'zhonghuamen',
-            label: 'Zhong Hua Men',
+            value: undefined
+            label: undefined,
           },
         ],
       },
